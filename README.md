@@ -1,47 +1,66 @@
-👋 Hi there, I’m Fay Al-Nefaie
+# 👋 Hi there, I’m Fay Al-Nefaie
 
-🎓 A passionate Software Engineering student at Umm Al-Qura University (Class of 2026), with a solid academic foundation (GPA 3.82/4.0) and hands-on experience in web development, system modeling, and UI/UX design.
+🎓 Software Engineering Student at Umm Al-Qura University | Class of 2026  
+📍 Based in Makkah, Saudi Arabia  
+📧 [Email Me](mailto:faymalnefaie@gmail.com) | 🌐 [Portfolio](https://fay-alnefaie.github.io/University-Lost-and-Found-website)  
+🔗 [LinkedIn](https://www.linkedin.com/in/fay-al-nefaie-20688b365/) | 🖥️ [GitHub](https://github.com/fay-alnefaie)
 
-💡 About Me
+---
 
-I thrive on solving real-world problems through clean code, intuitive design, and thoughtful system architecture. Whether it’s building web interfaces, modeling subsystems, or exploring AI tools — I aim to contribute meaningful, scalable solutions with attention to both logic and user experience.
+## 💡 About Me
 
-🔧 Tech Stack
- • Languages: Java, JavaScript, Python (basic), HTML, CSS, SQL
- • Tools: Git, GitHub, VS Code, Figma (UI basics), MySQL
- • Software Engineering: UML, SRS, Agile, Jira, Trello
+I'm a motivated software engineering student with a strong academic background (GPA: **3.82/4.0**) and practical experience in software design, web development, and system modeling. I enjoy transforming ideas into digital solutions that focus on performance, functionality, and user experience.
 
-🛠️ Projects
+---
 
-🌐 University Lost and Found Website
+## 🛠 Tech Stack
 
-A modular, responsive web platform to help students report and find lost items.
-Stack: HTML, CSS, JavaScript
- • Implemented form validation, dynamic filtering, and localStorage for data persistence
- • Created role-based UI and ensured smooth UX for campus users
+- Languages: Java, JavaScript, Python *(basic)*, HTML, CSS, SQL  
+- Tools: Git, GitHub, VS Code, Figma *(UI basics)*, MySQL  
+- Software Engineering: UML, SRS Documentation, Agile (Jira, Trello)
 
-📊 Green Zone Monitoring System
+---
 
-A system modeling project simulating sensor-based green zone access and billing.
-Focus: UML diagrams, system interaction, asynchronous components
+## 📌 Featured Projects
 
-🚕 Ride Booking App (UI/Architecture)
+### 🌐 [University Lost and Found Website](https://fay-alnefaie.github.io/University-Lost-and-Found-website)  
+A responsive web application to manage lost and found items on campus.  
+Tech: HTML, CSS, JavaScript  
+✔️ Modular layout, form validation, localStorage, and role-specific UI
 
-A prototype and backend architecture for a ride-sharing app.
-Tools: Figma, UML
- • Designed user flows, integrated Google Maps, and modeled core services: payment, notifications, etc.
+### 🛰️ [Green Zone Monitoring System](https://github.com/fay-alnefaie/green-zone-monitoring.git)  
+Modeled a smart monitoring system with asynchronous sensors and subsystems.  
+Focus: UML diagrams, class models, communication, and state charts
 
-🧠 Certifications
- • Vibe Coding 101 with Replit
- • ChatGPT Prompt Engineering for Developers
- • Build Apps with Windsurf’s AI Coding Agents
- • Multi AI Agent Systems with crewAI
+### 🚖 [Ride Booking App (Prototype)](https://www.figma.com/design/cjAbnAxN3MLpxh17bZm1oV/Ride_Booking_project?node-id=15-284)  
+Designed architecture and UI for a ride-booking app with real-time tracking.  
+Tools: Figma, UML  
+✔️ Features: Ride request, confirmation, Google Maps integration, and payment system
 
-🌍 Languages
- • Arabic: Native
- • English: Upper-Intermediate (B2)
+---
 
-📫 Let’s connect!
- • Email: faymalnefaie@gmail.com
- • LinkedIn: linkedin.com/in/fay-al-nefaie
- • GitHub: github.com/fay-alnefaie
+## 🧠 Certifications
+
+- Vibe Coding 101 with Replit  
+- ChatGPT Prompt Engineering for Developers  
+- Build Apps with Windsurf’s AI Coding Agents  
+- Multi AI Agent Systems with crewAI
+
+---
+
+## 🌍 Languages
+
+- Arabic: Native  
+- English: Upper-Intermediate *(B2)*
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to reach out or check out my latest work:
+
+📬 Email: faymalnefaie@gmail.com  
+💼 LinkedIn: [fay-al-nefaie](https://www.linkedin.com/in/fay-al-nefaie-20688b365/)  
+💻 GitHub: [fay-alnefaie](https://github.com/fay-alnefaie)
+
+---

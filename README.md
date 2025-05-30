@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Fay Al-Nefaie
 
-🎓 Software Engineering Student at Umm Al-Qura University | Class of 2026  
-📍 Based in Saudi Arabia  
+👩‍💻 Software Engineering Student at Umm Al-Qura University 
+🎓 Class of 2026  
 
 
 ## 💡 About Me

@@ -6,7 +6,7 @@
 
 ## 💡 About Me
 
-I'm a motivated software engineering student with a strong academic background (GPA: **3.82/4.0**) and practical experience in software design, web development, and system modeling. I enjoy transforming ideas into digital solutions that focus on performance, functionality, and user 
+I'm a motivated software engineering student, I enjoy transforming ideas into digital solutions 
 
 ## 🤝 Let’s Connect
 

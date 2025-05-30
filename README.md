@@ -1,6 +1,6 @@
 👋 Hi there, I’m Fay Al-Nefaie
 
-🎓 A passionate Software Engineering student at Umm Al-Qura University, with a solid academic foundation and hands-on experience in web development, system modeling, and UI/UX design.
+🎓 A passionate Software Engineering student at Umm Al-Qura University (Class of 2026), with a solid academic foundation (GPA 3.82/4.0) and hands-on experience in web development, system modeling, and UI/UX design.
 
 💡 About Me
 

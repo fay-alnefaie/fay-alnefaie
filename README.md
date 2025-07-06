@@ -16,5 +16,3 @@ Feel free to reach out or check out my latest work:
 💻 GitHub: [fay-alnefaie](https://github.com/fay-alnefaie)
 
 
----
-![Visitor Count](https://profile-counter.glitch.me/fay-alnefaie/count.svg)

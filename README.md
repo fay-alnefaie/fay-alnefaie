@@ -1,13 +1,11 @@
 # 👋 Hi there, I’m Fay Al-Nefaie
 
-👩‍💻 Software Engineering Student at Umm Al-Qura University 
-
-🎓 Class of 2026  
+### 👩‍💻 Software Engineering Student | Mobile Developer | Project Management Enthusiast
 
 
 ## 💡 About Me
 
-I'm a motivated software engineering student, I enjoy transforming ideas into digital solutions 
+I'm a dedicated Software Engineering student at **Umm Al-Qura University**. I am passionate about transforming innovative ideas into robust digital solutions, with a keen interest in mobile application development and effective project management to ensure successful and efficient execution.
 
 ## 🤝 Let’s Connect
 
@@ -18,3 +16,5 @@ Feel free to reach out or check out my latest work:
 💻 GitHub: [fay-alnefaie](https://github.com/fay-alnefaie)
 
 
+---
+![Visitor Count](https://profile-counter.glitch.me/fay-alnefaie/count.svg)

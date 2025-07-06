@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Fay Al-Nefaie
 
-###👩‍💻 Software Engineering Student | Mobile Developer | Project Management Enthusiast
+#### 👩‍💻 Software Engineering Student | Mobile Developer | Project Management Enthusiast
 
 
 ## 💡 About Me
